@@ -1,0 +1,98 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void DestroyOutofBounds_Start_m82ABA6F2EC34A21F7122E51FACD0BBB422D1DB7F (void);
+extern void DestroyOutofBounds_Update_m668C61C500818EE7590121D563E421A9534B6E4C (void);
+extern void DestroyOutofBounds__ctor_mD634E8CA8821E4C9082DBEAE6E56AA014D54AC60 (void);
+extern void DetectCollision_Start_mF501E48744B03BC14ABE0BAB87A8EA155AA8844E (void);
+extern void DetectCollision_Update_m1F4302C860250B0A21B705F391E0A8DB03189150 (void);
+extern void DetectCollision_OnTriggerEnter_m2E866B9DFA475320EBA248930F995C914A0B32C9 (void);
+extern void DetectCollision__ctor_mF2BCFE7ED880FB5ED73378180213B7E138D8B7AB (void);
+extern void MoveForward_Start_m855C8845DD164176ABE2783E531BACB5175E2DB5 (void);
+extern void MoveForward_Update_mD81312348318C4D966DF1BF5E9EE399A13A2DD12 (void);
+extern void MoveForward__ctor_m81C13FBBF67BA14AF75B1FB3E1CFD1D11775771C (void);
+extern void PlayerController_Start_m1D83076E8B136A71051F2F02545EE04947D3A8CF (void);
+extern void PlayerController_Update_m1F4051EB5BCBCCE5EEE2E3E49B7E278C3B14EC33 (void);
+extern void PlayerController__ctor_mDDAB7C7D82E1A5B3E6C197B1AB9D653DFE554F33 (void);
+extern void SpawnManager_Start_m65C9EA67649948222CFF4FBBF77BE2319D813DAF (void);
+extern void SpawnManager_Update_mD714BA3EADCC182FB7A93B9DE347D727E3A1BC53 (void);
+extern void SpawnManager_SpawnRandomAnimal_mCA31EE8F31077E4C587C9FB25F269DD1F16FC802 (void);
+extern void SpawnManager__ctor_m8DD503A0FFE79FA38CF0B7F013E54D24A04D166A (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[19] = 
+{
+	DestroyOutofBounds_Start_m82ABA6F2EC34A21F7122E51FACD0BBB422D1DB7F,
+	DestroyOutofBounds_Update_m668C61C500818EE7590121D563E421A9534B6E4C,
+	DestroyOutofBounds__ctor_mD634E8CA8821E4C9082DBEAE6E56AA014D54AC60,
+	DetectCollision_Start_mF501E48744B03BC14ABE0BAB87A8EA155AA8844E,
+	DetectCollision_Update_m1F4302C860250B0A21B705F391E0A8DB03189150,
+	DetectCollision_OnTriggerEnter_m2E866B9DFA475320EBA248930F995C914A0B32C9,
+	DetectCollision__ctor_mF2BCFE7ED880FB5ED73378180213B7E138D8B7AB,
+	MoveForward_Start_m855C8845DD164176ABE2783E531BACB5175E2DB5,
+	MoveForward_Update_mD81312348318C4D966DF1BF5E9EE399A13A2DD12,
+	MoveForward__ctor_m81C13FBBF67BA14AF75B1FB3E1CFD1D11775771C,
+	PlayerController_Start_m1D83076E8B136A71051F2F02545EE04947D3A8CF,
+	PlayerController_Update_m1F4051EB5BCBCCE5EEE2E3E49B7E278C3B14EC33,
+	PlayerController__ctor_mDDAB7C7D82E1A5B3E6C197B1AB9D653DFE554F33,
+	SpawnManager_Start_m65C9EA67649948222CFF4FBBF77BE2319D813DAF,
+	SpawnManager_Update_mD714BA3EADCC182FB7A93B9DE347D727E3A1BC53,
+	SpawnManager_SpawnRandomAnimal_mCA31EE8F31077E4C587C9FB25F269DD1F16FC802,
+	SpawnManager__ctor_m8DD503A0FFE79FA38CF0B7F013E54D24A04D166A,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[19] = 
+{
+	1125,
+	1125,
+	1125,
+	1125,
+	1125,
+	953,
+	1125,
+	1125,
+	1125,
+	1125,
+	1125,
+	1125,
+	1125,
+	1125,
+	1125,
+	1125,
+	1125,
+	2163,
+	1125,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	19,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
